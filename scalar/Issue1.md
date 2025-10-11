@@ -2,6 +2,7 @@
 
 PR Link - https://github.com/scalar/scalar/pull/6138
 Issue link (sub-issue) - https://github.com/scalar/scalar/issues/5987
+Tool - https://openbootstrap.onrender.com/pr/scalar/scalar/6138
 **Notes** - Should we add a bonus section on front-end testing? It might be beyond the scope of what's needed for students' initial work.
 
 Title: Issue #1 [Bug] “Show Additional Properties” button for API Reference is not working as expected
