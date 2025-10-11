@@ -17,24 +17,23 @@ This limitation affects international users who may have passwords or usernames 
 The application fails when attempting to encode Basic Authentication credentials that contain characters outside the Latin1 range. The native `btoa()` function throws an error, preventing the request from being sent.
 
 **Reproduction Steps:**
-
-1. Run `pnpm dev:void-server` to run a void server adn copy the `url` for the server. This will be used to send the request for reproducing this issue.
-1. On a new terminal, run `pnpm dev:client` and open the client on your `localhost`.
-2. Configure a request to
-  1. `URL` - void-server URL
-  2. `Auth Type`: `httpBasic`
-  3. `username`: `admin`
-  4. `password`: `żółć` (non-latin1 characters.)
-2. Set the username to `admin` and password to `żółć` (or any string containing non-Latin1 characters like Cyrillic `тест` or other Unicode characters)
-3. Attempt to send the request
-4. Observe: The application throws an error in the browser console: `InvalidCharacterError: Failed to execute 'btoa' on 'Window': The string to be encoded contains characters outside of the Latin1 range.`
-5. Observe: The request is not sent and authentication fails
-6. Try the request again with 
-  1. `URL` - void-server URL
-  2. `Auth Type`: `httpBasic`
-  3. `username`: `admin`
-  4. `password`: `password`
-7. Observe the request send successfully.
+1. Run `pnpm dev:void-server` to start a void server and copy the `url` for the server. This will be used to send the request for reproducing this issue.
+2. On a new terminal, run `pnpm dev:client` and open the client on your `localhost`.
+3. Configure a request to:
+  - `URL`: void-server URL
+  - `Auth Type`: `httpBasic`
+  - `username`: `admin`
+  - `password`: `żółć` (non-Latin1 characters)
+4. Set the username to `admin` and password to `żółć` (or any string containing non-Latin1 characters like Cyrillic `тест` or other Unicode characters).
+5. Attempt to send the request.
+6. Observe: The application throws an error in the browser console: `InvalidCharacterError: Failed to execute 'btoa' on 'Window': The string to be encoded contains characters outside of the Latin1 range.`
+7. Observe: The request is not sent and authentication fails.
+8. Try the request again with:
+  - `URL`: void-server URL
+  - `Auth Type`: `httpBasic`
+  - `username`: `admin`
+  - `password`: `password`
+9. Observe the request sends successfully.
 
 ## Expected Behavior
 
