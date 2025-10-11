@@ -1,3 +1,11 @@
+## Metadata (not to include in the student issue)
+
+PR Link - https://github.com/scalar/scalar/pull/6653
+Issue link - https://github.com/scalar/scalar/issues/6476
+Tool - https://openbootstrap.onrender.com/pr/scalar/scalar/6653
+
+**Notes**: This issue's PR description is a bit different than our forked commit. CodePath's repo does not have any default sorting to `required an alpha`. Still, this is a great issue to work on helping students touch multiple parts of the api-reference code. I have updated the PR description accordingly.
+
 # Add configuration options for sorting schema properties
 
 ## Motivation
@@ -10,7 +18,7 @@ Currently, the API reference preserves the property order as defined in the Open
 
 **Reproduction Steps:**
 
-1. Create an OpenAPI specification with a schema that has properties defined in a specific order (e.g., `zebra`, `alpha`, `beta`, `gamma`)
+1. Create an OpenAPI specification at `package/api-reference/openapi.json` with a schema that has properties defined in a specific order (e.g., `zebra`, `alpha`, `beta`, `gamma`)
 Example OpenAPI schema for testing property order:
 
 ```json
@@ -117,6 +125,7 @@ Users should be able to configure how schema properties are sorted through two i
 - [ ] All combinations of these configuration options must result in the expected property display order as described in the table above
 - [ ] The configuration options are properly typed and validated with appropriate defaults
 - [ ] Unit tests are implemented to verify all combinations of `orderSchemaPropertiesBy` and `orderRequiredPropertiesFirst` produce the expected property order
+- Update the `documentation/configuration.md` with the new configuration options available.
 ## Verification
 
 **Manual Testing:**
