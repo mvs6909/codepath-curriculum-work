@@ -66,3 +66,6 @@ The application should successfully encode credentials containing Unicode charac
 
 1. Common issue with `btoa()` - https://stackoverflow.com/questions/23223718/failed-to-execute-btoa-on-window-the-string-to-be-encoded-contains-characte
 2. Library for base64 that was used in the original fix - https://github.com/dankogai/js-base64
+
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.

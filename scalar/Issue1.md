@@ -232,3 +232,8 @@ When a schema has many properties, only a limited number should be displayed ini
 **Automated Testing:**
 1. Run the test suite: `pnpm test Schema.test.ts`
 
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
+
+
+

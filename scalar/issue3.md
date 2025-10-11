@@ -195,3 +195,6 @@ Users should be able to configure how schema properties are sorted through two i
 **Automated Testing:**
 
 Run the test suite to verify the sorting logic handles all configuration combinations correctly. Tests should cover scenarios with various property orders, required/optional mixes, and all configuration option combinations.
+
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
