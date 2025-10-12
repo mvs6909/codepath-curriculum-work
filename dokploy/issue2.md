@@ -51,3 +51,8 @@ The user profile form should include an optional name field that allows users to
 **Automated Testing:**
 - Run the existing test suite to ensure no regressions: `npm test`
 - Verify that form validation passes with and without a name value provided
+
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
+
+Guide to submitting pull requests: https://hackmd.io/@timothy1ee/Hky8kV3hlx

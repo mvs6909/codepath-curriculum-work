@@ -51,3 +51,8 @@ The password field in the security view should be masked by default, with an opt
 - Saved passwords are hidden by default in the display view
 - Toggle functionality works correctly to show/hide passwords
 - UI remains clean and consistent with the rest of the application
+
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
+
+Guide to submitting pull requests: https://hackmd.io/@timothy1ee/Hky8kV3hlx
