@@ -235,5 +235,8 @@ When a schema has many properties, only a limited number should be displayed ini
 ### Submission
 Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
 
+Guide to submitting pull requests: https://hackmd.io/@timothy1ee/Hky8kV3hlx
+
+
 
 

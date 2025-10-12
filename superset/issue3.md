@@ -57,3 +57,8 @@ Users should be able to choose how percentage metrics are calculated through a n
 - Verify new tests pass that cover both calculation modes
 - Run Python backend tests to verify query processing logic
 - Confirm post-processing contribution calculations handle the new totals parameter correctly
+
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
+
+Guide to submitting pull requests: https://hackmd.io/@timothy1ee/Hky8kV3hlx
