@@ -1,7 +1,7 @@
 ## Metadata
 
 - **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/apache/superset/33694)
-- **PR:** [apache/superset#33540](https://github.com/apache/superset/pull/33694)
+- **PR:** [apache/superset#33694](https://github.com/apache/superset/pull/33694)
 - **Issue:** N/A
 
 # Browser tab title not updating to chart name when opening charts

@@ -1,7 +1,7 @@
 ## Metadata
 
 - **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/apache/superset/33656)
-- **PR:** [apache/superset#33540](https://github.com/apache/superset/pull/33656)
+- **PR:** [apache/superset#33656](https://github.com/apache/superset/pull/33656)
 - **Issue:** N/A
 - Notes: Took multiple attempts with Cursor to get the implementation right. The issue was primarily focused for All Records query not being setup correctly. Interactive session was helpful to figure out the root cause.
 
