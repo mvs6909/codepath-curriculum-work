@@ -1,7 +1,7 @@
 # Metadata
 
-- **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/BasedHardware/omi/2736)
-- **PR:** [BasedHardware/omi#2736](https://github.com/BasedHardware/omi/pull/2736)
+- **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/BasedHardware/omi/2928)
+- **PR:** [BasedHardware/omi#2928](https://github.com/BasedHardware/omi/pull/2928)
 - **Difficulty:** Easy
 
 # Add share option for Android in settings drawer
@@ -44,3 +44,8 @@ The settings drawer should display platform-specific share options based on the 
 5. Run the app on an iOS device or simulator
 6. Open the settings drawer and verify that "Share Omi for iPhone" is displayed (not the Android option)
 7. Confirm both platforms show only their respective share options
+
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
+
+Guide to submitting pull requests: https://hackmd.io/@timothy1ee/Hky8kV3hlx
