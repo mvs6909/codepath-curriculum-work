@@ -56,11 +56,6 @@ When a user selects a sort order for work item notes, that preference should be 
 6. Open the work item in a new browser tab/window and verify the sort preference is maintained
 7. Check browser network requests to confirm the backend API is being called with the correct sort order parameter
 
-**Automated Testing:**
-- Run the existing test suite to ensure no regressions: `bundle exec rspec spec/features/work_items/`
-- Verify any new or modified tests related to note sorting pass
-- Check that frontend tests validate the sort order parameter is correctly passed to backend requests
-
 **Success Indicators:**
 - Notes appear in the correct order immediately upon page load without visible reordering
 - Network requests show the sort order parameter being sent to the backend
