@@ -55,3 +55,8 @@ The client libraries selector should use the `ScalarCombobox` component instead 
 - Run existing test suite: `pnpm test`
 - Verify all existing tests pass and component behavior is unchanged
 - Check that the component properly handles client selection state
+
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
+
+Guide to submitting pull requests: https://hackmd.io/@timothy1ee/Hky8kV3hlx
