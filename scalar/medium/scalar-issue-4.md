@@ -1,8 +1,8 @@
 ## Metadata (not to include in the student issue)
 
-PR Link - https://github.com/scalar/scalar/pull/6322/files
-Issue link - NA
-Tool - https://openbootstrap.onrender.com/pr/scalar/scalar/6322
+- PR Link: https://github.com/scalar/scalar/pull/6322/files
+- Issue link: NA
+- Tool: https://openbootstrap.onrender.com/pr/scalar/scalar/6322
 
 # Replace native select with combobox component in client libraries card
 
