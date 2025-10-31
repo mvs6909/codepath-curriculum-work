@@ -80,3 +80,8 @@ Verify all tests pass, particularly:
 - "Save" button triggers the save handler
 - "Discard" button triggers the navigation confirmation handler
 - Modal can be dismissed without triggering save or discard actions
+
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
+
+Guide to submitting pull requests: https://hackmd.io/@timothy1ee/Hky8kV3hlx
