@@ -37,7 +37,7 @@ The chatbox application stores all chat sessions persistently using `electron-st
 
 Users should be able to export their chat sessions to a standard JSON file format and import previously exported sessions back into the application. The feature should handle edge cases gracefully, including duplicate sessions, invalid data, and merge conflicts.
 
-![Demo](../assets/chatbox-issue4-demo.gif)
+![Demo](../assets/chatbox-demo-issue-4.gif)
 
 **Acceptance Criteria:**
 
