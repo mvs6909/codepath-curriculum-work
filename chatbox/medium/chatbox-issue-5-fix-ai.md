@@ -38,6 +38,11 @@ Users should be able to select their AI provider (OpenAI, Anthropic Claude, or O
 - Allow users to select from fetched models or enter a custom model name
 - Route chat requests to the correct endpoint with provider-specific authentication and message formatting
 
+![Chat](../assets/issue-5-chat-test.png)
+
+![Settings](../assets/issue-5-show-settings-modal.png)
+
+
 **Acceptance Criteria:**
 
 - [ ] Settings UI includes a provider selection dropdown with options: OpenAI, Anthropic Claude, and OpenAI-Compatible
