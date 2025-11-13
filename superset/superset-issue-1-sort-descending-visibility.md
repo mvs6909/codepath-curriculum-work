@@ -76,6 +76,7 @@ When no "Sort Query By" metric is selected, the "Sort Descending" checkbox shoul
 - The control panel layout should clearly show the relationship between "Sort Query By" and "Sort Descending"
 - Users should not be able to interact with the "Sort Descending" checkbox when it has no effect
 - All existing table chart functionality should continue to work as before
+
 ### Submission
 Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
 
