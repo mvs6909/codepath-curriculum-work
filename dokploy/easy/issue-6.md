@@ -1,3 +1,9 @@
+## Metadata
+
+- **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/Dokploy/dokploy/2140)
+- **PR:** [dokploy/dokploy#2140](https://github.com/Dokploy/dokploy/pull/2140)
+- **Issue:** N/A
+
 # Add warning alert for bind mount configuration in volume creation
 
 ## Motivation
@@ -46,3 +52,8 @@ When a user selects "bind" as the volume type, an alert block should appear prov
 - Alert is conditionally rendered based on volume type selection
 - Warning text is readable and provides actionable guidance
 - Component behavior is consistent across type changes
+
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
+
+Guide to submitting pull requests: https://hackmd.io/@timothy1ee/Hky8kV3hlx
