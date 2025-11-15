@@ -1,7 +1,7 @@
 ## Metadata
 
 - **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/heyputer/puter/1219)
-- **PR:** [dokploy/dokploy#1219](https://github.com/heyputer/puter/pull/1219)
+- **PR:** [puter/puter#1219](https://github.com/heyputer/puter/pull/1219)
 - **Issue:** https://github.com/HeyPuter/puter/issues/682
 
 

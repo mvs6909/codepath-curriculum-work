@@ -1,3 +1,9 @@
+## Metadata
+
+- **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/heyputer/puter/1678)
+- **PR:** [puter/puter#1678](https://github.com/heyputer/puter/pull/1678)
+- **Issue:** N/A
+
 # Add option to automatically set window title to opened file's name
 
 ## Motivation
@@ -9,6 +15,8 @@ Application developers should have the ability to opt-in to automatically settin
 ## Current Behavior
 
 When multiple files are opened in the same application, all windows display the same title (the application name). There is no way for developers to configure their apps to automatically use the opened file's name as the window title.
+
+![Before](../assets/issue-6-before.png)
 
 **Reproduction Steps:**
 1. Navigate to the Puter desktop
@@ -45,3 +53,8 @@ Developers should be able to enable a setting in the app edit section that autom
 
 **Automated Testing:**
 Run the existing test suite to ensure no regressions were introduced in the app settings functionality.
+
+### Submission
+Download https://cap.so/ to record your screen (use Studio mode). Export as an mp4, and drag and drop into an issue comment below.
+
+Guide to submitting pull requests: https://hackmd.io/@timothy1ee/Hky8kV3hlx
