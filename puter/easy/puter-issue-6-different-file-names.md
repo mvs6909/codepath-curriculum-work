@@ -2,7 +2,7 @@
 
 - **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/heyputer/puter/1678)
 - **PR:** [puter/puter#1678](https://github.com/heyputer/puter/pull/1678)
-- **Issue:** N/A
+- **Issue:** https://github.com/HeyPuter/puter/issues/1662
 
 # Add option to automatically set window title to opened file's name
 

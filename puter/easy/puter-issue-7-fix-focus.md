@@ -2,7 +2,7 @@
 
 - **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/heyputer/puter/1589)
 - **PR:** [puter/puter#1589](https://github.com/heyputer/puter/pull/1589)
-- **Issue:** https://github.com/HeyPuter/puter/issues/1662
+- **Issue:** https://github.com/HeyPuter/puter/issues/1586
 
 # Window incorrectly focuses when close or minimize button is clicked
 
