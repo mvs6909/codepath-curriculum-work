@@ -1,9 +1,8 @@
 ## Metadata
 
 - **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/heyputer/puter/1156)
-- **PR:** [dokploy/dokploy#1156](https://github.com/heyputer/puter/pull/1156)
+- **PR:** [puter/puter#1156](https://github.com/heyputer/puter/pull/1156)
 - **Issue:** N/A
-
 
 # Enhance ai command to execute shell commands from AI responses
 

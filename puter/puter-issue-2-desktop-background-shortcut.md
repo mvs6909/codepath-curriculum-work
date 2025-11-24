@@ -1,7 +1,7 @@
 ## Metadata
 
 - **Tool:** [OpenBootstrap](https://openbootstrap.onrender.com/pr/heyputer/puter/1635)
-- **PR:** [dokploy/dokploy#1635](https://github.com/heyputer/puter/pull/1635)
+- **PR:** [puter/puter#1635](https://github.com/heyputer/puter/pull/1635)
 - **Issue:** https://github.com/HeyPuter/puter/issues/1608
 
 # Add 'Set as Desktop Background' context menu item to images
